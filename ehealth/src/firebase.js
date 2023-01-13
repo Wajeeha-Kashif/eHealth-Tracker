@@ -10,21 +10,21 @@ import 'firebase/compat/storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB0OKridpsECi5Q9AXlpLwbIrFNb-YHtRw",
-  authDomain: "ehealthtracker-82b8b.firebaseapp.com",
-  projectId: "ehealthtracker-82b8b",
-  storageBucket: "ehealthtracker-82b8b.appspot.com",
-  messagingSenderId: "1084931067213",
-  appId: "1:1084931067213:web:425ef22323d84ab35ebb04"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 firebase.initializeApp({
-  apiKey: "AIzaSyB0OKridpsECi5Q9AXlpLwbIrFNb-YHtRw",
-  authDomain: "ehealthtracker-82b8b.firebaseapp.com",
-  projectId: "ehealthtracker-82b8b",
-  storageBucket: "ehealthtracker-82b8b.appspot.com",
-  messagingSenderId: "1084931067213",
-  appId: "1:1084931067213:web:425ef22323d84ab35ebb04"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 });
 
 // Initialize Firebase
